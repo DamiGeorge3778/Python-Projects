@@ -1,0 +1,1 @@
+print(issubclass(bool, str))
